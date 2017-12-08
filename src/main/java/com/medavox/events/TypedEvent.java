@@ -1,4 +1,4 @@
-package com.elucid.events;
+package com.medavox.events;
 
 /**
  * @author Adam Howard
